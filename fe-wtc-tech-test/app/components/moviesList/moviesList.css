@@ -1,0 +1,13 @@
+.flex-container {
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+
+  .header {
+      text-align: center;
+      font-size: 22px;
+      font-weight: bold;
+      margin-top: 25px;
+  }
